@@ -2,7 +2,7 @@ Here’s a simpler version of the README.md file for your Amazon Clone project:
 
 Live Demo
 
-Check out the live version of the website here: 
+Check out the live version of the website here: https://gitwithashis.github.io/amazon-ui-clone/
 Amazon Clone
 
 This project is a basic Amazon homepage clone  made with HTML and CSS. It looks like Amazon's main website and is built for learning and practicing front-end web design.
