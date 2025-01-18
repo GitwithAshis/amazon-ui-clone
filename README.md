@@ -1,4 +1,8 @@
 Here’s a simpler version of the README.md file for your Amazon Clone project:
+
+Live Demo
+
+Check out the live version of the website here: 
 Amazon Clone
 
 This project is a basic Amazon homepage clone  made with HTML and CSS. It looks like Amazon's main website and is built for learning and practicing front-end web design.
@@ -51,7 +55,7 @@ How to Use
 
 1. Download or Clone the Project:
    bash
-   git clone https://github.com/GitwithAshis/amazon-clone.git
+   https://github.com/GitwithAshis/amazon-ui-clone
 
 Open the Project: Open the index.html file in a browser.
 Future Improvements
