@@ -35,6 +35,7 @@ Features
   - Pet Care
   - New Toys
   - Fashion Trends
+
 ![03](https://github.com/user-attachments/assets/630bf496-095a-4df6-b6ae-862f0394c1c0)
 
 ![04](https://github.com/user-attachments/assets/30f67f74-7a1d-49cd-a19b-6923329974f6)
